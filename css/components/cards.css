@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+.services {
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 24px;
+  width: 100%;
+}

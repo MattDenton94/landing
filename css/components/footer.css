@@ -1,0 +1,76 @@
+.git i {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+.git i:hover {
+  color: green;
+}
+
+.insta i {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+.insta i:hover {
+  color: green;
+}
+
+.face i {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+.face i:hover {
+  color: green;
+}
+
+.in i {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+.in i:hover {
+  color: green;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.footer {
+  box-shadow:rgb(230, 230, 230);
+  color: white;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  height: 120px;
+  width: 100%; 
+}

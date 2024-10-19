@@ -1,0 +1,31 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  color: black;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.btn-black {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.btn-black:hover {
+  background-color: rgb(202, 200, 200)
+}
+
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner h2 {
+  font-size: 40px;
+}
